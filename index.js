@@ -108,6 +108,7 @@ function filterUnfundedOnly() {
 
 // show only games that are fully funded
 function filterFundedOnly() {
+    
     deleteChildElements(gamesContainer);
 
     // use filter() to get a list of games that have met or exceeded their goal
@@ -124,6 +125,7 @@ function filterFundedOnly() {
 
 // show all games
 function showAllGames() {
+
     deleteChildElements(gamesContainer);
 
     // add all games from the JSON data to the DOM
