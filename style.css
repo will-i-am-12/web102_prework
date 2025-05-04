@@ -21,7 +21,16 @@ body {
 
 .stats-container {
     display: flex;
-}
+    flex-direction: row;
+    align-items: center;
+    
+    }
+
+    .stats-container:hover{
+        cursor: pointer;
+        box-shadow: 0 0 30px;
+        background-color: lightblue;
+    }
 
 .stats-card {
     background-color: #a8b0bc;
@@ -40,6 +49,7 @@ body {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
+    
 }
 
 .game-img {
@@ -73,3 +83,17 @@ button {
     margin: 1%;
     border-radius: 7px;
 }
+
+button:hover{
+    cursor: pointer;
+    box-shadow: 0 0 30px lightblue;
+}
+
+#search-bar {
+    padding: 8px 12px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    width: 200px;
+    margin-left: auto;
+  }
