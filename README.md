@@ -35,7 +35,7 @@ GIF created with ScreenToGif
 ## Notes
 
 Challenge faced:
-- Understanding all the functio including filter and reduce and building a search bar
+- Understanding all the function including filter and reduce and building a search bar
 - Submitting through GitHub
 
 ## License
