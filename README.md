@@ -1,6 +1,6 @@
 # WEB102 Prework - *GameFoundry*
 
-Submitted by: **Your Name Here*William Lu**
+Submitted by: **William Lu**
 
 **GameFoundry** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
